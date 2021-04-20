@@ -3,6 +3,13 @@
 # gif:
 ![Image of Yaktocat](https://github.com/chloeeee72/vue-weather/blob/master/screenShot_Gif/git.gif)
 
+# API:
+https://openweathermap.org/
+
+## 技术栈：
+##### Vue.Js
+##### Vue-Router
+
 ## Project setup
 ```
 npm install
