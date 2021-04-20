@@ -1,5 +1,8 @@
 # vue-weather
 
+# gif:
+![Image of Yaktocat](https://github.com/chloeeee72/vue-weather/blob/master/screenShot_Gif/git.gif)
+
 ## Project setup
 ```
 npm install
