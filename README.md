@@ -1,5 +1,8 @@
 # vue-weather
 
+# live:
+https://vue-weather-chloe.netlify.app/
+
 # gif:
 ![Image of Yaktocat](https://github.com/chloeeee72/vue-weather/blob/master/screenShot_Gif/git.gif)
 
