@@ -1,4 +1,4 @@
-# vue-weather
+# vue-weather 单页面app
 
 # live:
 ### (推荐使用手机打开，pc打开请使用F12)
