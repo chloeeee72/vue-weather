@@ -1,6 +1,7 @@
 # vue-weather
 
-# live(推荐使用手机打开，pc打开请使用F12):
+# live:
+### (推荐使用手机打开，pc打开请使用F12)
 https://vue-weather-chloe.netlify.app/
 
 # gif:
